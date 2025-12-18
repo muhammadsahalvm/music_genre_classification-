@@ -4,7 +4,7 @@ A full-stack web application that predicts music genres from audio files using a
 
 ## Features
 -   **Audio Classification**: Upload `.wav`, `.mp3`, or `.mp4` files to classify their genre.
--   **Spotify Integration**: Get a curated Spotify playlist recommendation based on the predicted genre.
+-   **Spotify Integration**: Get acurated Spotify playlist recommendation based on the predicted genre.
 -   **Responsive UI**: Modern, dark-themed interface built with React and Tailwind CSS.
 -   **Guest Access**: Try the classifier instantly without creating an account.
 -   **History & Analytics**: (Authenticated) Track your prediction history and view usage stats.
