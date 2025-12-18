@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+librosa
+numpy
+transformers
+torch
+torchaudio
+static-ffmpeg
